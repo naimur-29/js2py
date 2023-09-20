@@ -1,9 +1,9 @@
-### [] lexical analysis
+### lexical analysis
 
-- [] read the file
-- [] source to lexems
-- [] lexems to tokens
+- read the file ✅
+- source to lexems
+- lexems to tokens
 
-### [] syntax analysis
+### syntax analysis
 
-### [] semantic analysis
+### semantic analysis
