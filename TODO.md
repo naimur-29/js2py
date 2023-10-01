@@ -1,8 +1,6 @@
 ### lexical analysis
 
-- read the file ✅
-- source to lexems
-- lexems to tokens
+- read/scan the source code
 
 ### syntax analysis
 
